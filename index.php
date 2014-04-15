@@ -38,7 +38,7 @@ if ($pastas != "" ) {
 	}
 	echo "</ul>";
 }
-
+echo "teste";
 // lista os arquivos se houverem
 
 /* if ($arquivos != "") {
